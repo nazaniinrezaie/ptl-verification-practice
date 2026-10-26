@@ -1,4 +1,3 @@
-
 def get_led_state(active_operators):
     colors = list(active_operators.values())
 
